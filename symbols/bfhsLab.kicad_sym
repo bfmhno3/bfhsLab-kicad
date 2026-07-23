@@ -2144,11 +2144,9 @@
 				(stroke
 					(width 0)
 					(type solid)
-					(color 255 153 0 1)
 				)
 				(fill
-					(type color)
-					(color 255 255 194 1)
+					(type background)
 				)
 			)
 			(text "TEXAS\nINSTRUMENTS\nMSPM0G3507SPTR\nLQFP48"
