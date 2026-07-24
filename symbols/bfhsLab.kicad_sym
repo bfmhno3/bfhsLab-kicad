@@ -2039,7 +2039,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm"
+		(property "Footprint" "bfhsLab:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm"
 			(at 0 -9.398 0)
 			(show_name no)
 			(do_not_autoplace no)
